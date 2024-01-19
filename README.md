@@ -8,7 +8,8 @@ STEPS
 
 5. copy .env.example and rename it .env
 6. Add Database Credential like yours in .env
-7. add this  in .env accordingly -TWITTER_CLIENT_ID=26NdKBb7D5eeMCbKbhabMa0Bd
+7. add this  in .env change accordingly -
+TWITTER_CLIENT_ID=26NdKBb7D5eeMCbKbhabMa0Bd
 TWITTER_CLIENT_SECRET=Z33byo0J9QRsm2xTmugFTsyEgBJFPxUywiVDYeHAp6jcAO1OhD
 
 
